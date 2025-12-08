@@ -198,7 +198,7 @@ MonoBehaviour:
   messageOther: 
   messageSelf: 
   messageBroadcast: 
-  messageTarget: {fileID: 0}
+  messageTarget: {fileID: 100002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
   messageTargetMessage: LoseAllHealth
   filterTag: Player
 --- !u!68 &638795661371386444
@@ -679,7 +679,7 @@ MonoBehaviour:
   messageOther: 
   messageSelf: 
   messageBroadcast: 
-  messageTarget: {fileID: 0}
+  messageTarget: {fileID: 100002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
   messageTargetMessage: LoseAllHealth
   filterTag: Player
 --- !u!68 &2063100335224752556
@@ -1506,7 +1506,7 @@ MonoBehaviour:
   messageOther: 
   messageSelf: 
   messageBroadcast: 
-  messageTarget: {fileID: 0}
+  messageTarget: {fileID: 100002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
   messageTargetMessage: LoseAllHealth
   filterTag: Player
 --- !u!68 &573635255671156609
@@ -1674,7 +1674,7 @@ MonoBehaviour:
   messageOther: 
   messageSelf: 
   messageBroadcast: 
-  messageTarget: {fileID: 0}
+  messageTarget: {fileID: 100002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
   messageTargetMessage: LoseAllHealth
   filterTag: Player
 --- !u!68 &9054990807384483791
