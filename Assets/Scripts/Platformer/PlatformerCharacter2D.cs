@@ -476,8 +476,7 @@ namespace UnityStandardAssets._2D
 			m_AutoCam.enabled = true;
 
 			this.enabled = true;
-
-		}
+        }
 
 
         private void Flip()
