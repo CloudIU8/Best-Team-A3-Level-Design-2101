@@ -440,6 +440,10 @@ namespace UnityStandardAssets._2D
 		{
 			if (!m_Dead && death)
 			{
+                m_dashing = false;
+                m_dashed = false;
+                m_canDash = true; // Resetting all dash statuses.
+
 				m_Dead = true;
                 m_Anim.SetBool("Ground", true);
 				m_Anim.SetBool("Death", death);
