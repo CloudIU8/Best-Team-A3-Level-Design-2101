@@ -12,11 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 1 - Teach.unity
     guid: 6fc7e36798ea7764981d53104cf0c5af
   - enabled: 1
-    path: Assets/Scenes/Level 2 - Test.unity
-    guid: 99b8795925e81e046a834992b92c5171
-  - enabled: 1
     path: Assets/Scenes/Level 3 - Twist.unity
     guid: 7e60cbc7a24d5484d8e634fd7cbe3df9
+  - enabled: 1
+    path: Assets/Scenes/Level 2 - Test.unity
+    guid: 99b8795925e81e046a834992b92c5171
   - enabled: 0
     path: Assets/Scenes/PlatformerLevel1.unity
     guid: 1b4c07d6a085c43208574e1eb3f3dd72
