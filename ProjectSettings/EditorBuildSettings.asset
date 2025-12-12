@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 2 - Test.unity
     guid: 99b8795925e81e046a834992b92c5171
+  - enabled: 1
+    path: Assets/Scenes/Ending Screen.unity
+    guid: e62b79a4bfb78a44cbaa58a3b3c873ed
   - enabled: 0
     path: Assets/Scenes/PlatformerLevel1.unity
     guid: 1b4c07d6a085c43208574e1eb3f3dd72
